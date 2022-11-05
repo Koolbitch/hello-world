@@ -1,3 +1,6 @@
 # hello-world
-My first repository 
-   #GitHrka
+- edit1
+- edit2
++ About me
++
++ my name is olamide 
